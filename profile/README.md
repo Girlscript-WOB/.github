@@ -74,5 +74,7 @@ Find more about the program on the [Girlscript website](https://gssoc.girlscript
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Thank You Msg  ------ ----------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+#
+**Thank you for being a part of Winter of Blockchain!**
 
-Thank you for being a part of Winter of Blockchain! Your passion and contributions are what make our community thrive. We look forward to growing and innovating together. Stay connected and keep building the future with us!
+Your passion and contributions are what make our community thrive. We look forward to growing and innovating together. Stay connected and keep building the future with us!
