@@ -68,4 +68,11 @@ Here's a brief overview of the key programs offered by GirlScript Foundation:
 - [GirlScript Summer of Code](https://gssoc.girlscript.tech/): A 3-month open-source program for coding contributions with mentorship.
 - [GirlScript Education Outreach](https://eop.girlscript.tech/): Initiatives to spread coding literacy in schools and colleges.
 - [GirlScript Winter of Contributing](https://gwoc.girlscript.tech/): A program focused on non-code contributions like documentation and content writing.
+  
 Find more about the program on the [Girlscript website](https://gssoc.girlscript.tech/)!
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Thank You Msg  ------ ----------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+Thank you for being a part of Winter of Blockchain! Your passion and contributions are what make our community thrive. We look forward to growing and innovating together. Stay connected and keep building the future with us!
