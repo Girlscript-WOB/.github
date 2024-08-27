@@ -58,3 +58,14 @@ To become a part of Winter of Blockchain (WoB), you can follow these steps:
 - Reach Out to Existing Members: If you know someone already involved in WoB, like [Durgesh Kumar Prajapati](https://www.linkedin.com/in/durgesh4993/), [Nandini Singh](https://www.linkedin.com/in/nandinisingh18/) & [Rashi Dashore](https://www.linkedin.com/in/rashi-dashore-27b14b248/), you can ask them for advice or recommendations on how to get started. Existing members can often provide insights and help you navigate the process.
 
 By taking these steps, you can become an active member of the Winter of Blockchain community and contribute to their initiatives.
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Other Programs ------ ----------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+## Other Programs:
+Here's a brief overview of the key programs offered by GirlScript Foundation:
+- [GirlScript Summer of Code](https://gssoc.girlscript.tech/): A 3-month open-source program for coding contributions with mentorship.
+- [GirlScript Education Outreach](https://eop.girlscript.tech/): Initiatives to spread coding literacy in schools and colleges.
+- [GirlScript Winter of Contributing](https://gwoc.girlscript.tech/): A program focused on non-code contributions like documentation and content writing.
+Find more about the program on the [Girlscript website](https://gssoc.girlscript.tech/)!
