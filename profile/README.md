@@ -37,5 +37,24 @@
 
 # Welcome to Girlscript Winter of Block chain
 
-WOB is the 3-month long Open Source program during summers conducted by GirlScript Foundation, started in 2024,
-to help beginners get started with Open Source Development while encouraging diversity. Throughout the program, participants contribute to different projects under the guidance of experienced mentors. Top participants get exciting goodies and opportunities.
+GirlScript Winter Of Blockchain is a thirty-days-long Open-Source Program started to conduct every early Winter by the Girlscript Foundation. With constant efforts, participants contribute to numerous projects under the extreme guidance of skilled mentors over this duration. With such exposure, students begin to contribute to real-world projects from the comfort of their homes. GirlScript Winter Of Blockchain has witnessed active participation over the years, and the 2024 edition aims to carry the legacy with a promising impact towards Blockchain.
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -------  More Us ------- ----------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+## How do I become part of WoB (Winter Of Blockchain)
+
+To become a part of Winter of Blockchain (WoB), you can follow these steps:
+
+- **Visit the Official Website:** Check out the Winter of Blockchain's [official website](https://gssoc.girlscript.tech/wob) for detailed information on participation, ongoing activities, and open roles.
+
+- **Join the Community:** Engage with the WoB community by joining their [Discord](https://discord.gg/ShtbWyAe6m) channels. This is where you can network with other members, stay updated on [events](https://gssoc.girlscript.tech/wobEvents), and find [opportunities](https://linktr.ee/wob_girlscript) to get involved.
+
+- **Apply for Open Roles:** WoB often has openings for roles like [Contributors](https://forms.gle/w71Vd1HJzDWSqVX36), [Mentors](https://forms.gle/T41fEt1RxYe4WJAd7), and [Project Admin](https://forms.gle/xZsJG9CpUWzqHZZQ9). Keep an eye on their announcements for any open positions or calls for applications. You can also directly reach out to their team through social media or their website.
+
+- **Follow on Social Media:** Stay connected with WoB on social media platforms like [Twitter](https://x.com/WoB__girlscript), [LinkedIn](https://www.linkedin.com/company/winter-of-blockchains/), and [Instagram](https://www.instagram.com/wob__girlscript). This will help you stay updated on the latest news, events, and opportunities.
+
+- Reach Out to Existing Members: If you know someone already involved in WoB, like [Durgesh Kumar Prajapati](https://www.linkedin.com/in/durgesh4993/), [Nandini Singh](https://www.linkedin.com/in/nandinisingh18/) & [Rashi Dashore](https://www.linkedin.com/in/rashi-dashore-27b14b248/), you can ask them for advice or recommendations on how to get started. Existing members can often provide insights and help you navigate the process.
+
+By taking these steps, you can become an active member of the Winter of Blockchain community and contribute to their initiatives.
