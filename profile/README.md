@@ -49,7 +49,7 @@ To become a part of Winter of Blockchain (WoB), you can follow these steps:
 
 - **Visit the Official Website:** Check out the Winter of Blockchain's [official website](https://gssoc.girlscript.tech/wob) for detailed information on participation, ongoing activities, and open roles.
 
-- **Join the Community:** Engage with the WoB community by joining their [Discord](https://discord.gg/ShtbWyAe6m) channels. This is where you can network with other members, stay updated on [events](https://gssoc.girlscript.tech/wobEvents), and find [opportunities](https://linktr.ee/wob_girlscript) to get involved.
+- **Join the Community:** Engage with the WoB community by joining their [Discord]() channels. This is where you can network with other members, stay updated on [events](https://gssoc.girlscript.tech/wobEvents), and find [opportunities](https://linktr.ee/wob_girlscript) to get involved.
 
 - **Apply for Open Roles:** WoB often has openings for roles like [Contributors](https://forms.gle/w71Vd1HJzDWSqVX36), [Mentors](https://forms.gle/T41fEt1RxYe4WJAd7), and [Project Admin](https://forms.gle/xZsJG9CpUWzqHZZQ9). Keep an eye on their announcements for any open positions or calls for applications. You can also directly reach out to their team through social media or their website.
 
