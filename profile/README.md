@@ -11,18 +11,18 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <p align="center"> 
-<a href="#">
+<a href="https://www.linkedin.com/company/winter-of-blockchains/">
          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="#">
+<a href="https://www.instagram.com/wob__girlscript/">
          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
- <a href="#">
+ <a href="https://x.com/WoB__girlscript">
 	<img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"></a>
 </a>
 
-<a href="#">
+<a href="https://linktr.ee/wob_girlscript">
 	<img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
 </a>
 
